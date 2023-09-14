@@ -1,4 +1,4 @@
-gitcvs-migration(7)
+gitcvs-migration (7)
 ===================
 
 NAME
